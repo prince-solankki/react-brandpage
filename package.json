@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prince-solankki.github.io/react-brandpage",
+  "homepage": "https://prince-solankki.github.io/react-brandpage/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
